@@ -46,7 +46,6 @@ LUCI_MENU.app=3. Applications
 LUCI_MENU.theme=4. Themes
 LUCI_MENU.proto=5. Protocols
 LUCI_MENU.lib=6. Libraries
-LUCI_MENU.Network=7. Network
 
 
 PKG_NAME?=$(LUCI_NAME)
